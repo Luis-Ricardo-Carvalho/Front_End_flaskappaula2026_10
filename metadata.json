@@ -1,0 +1,6 @@
+{
+  "name": "Iris Classifier AI - Dashboard Preditivo",
+  "description": "Dashboard moderno em React e Tailwind CSS para predição e classificação botânica da flor Iris via API de Machine Learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
